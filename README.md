@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho com Front-end
 - 🌱 Estudando TypeScript
-- 💬 Entre em contato pelo E-mail:mvscmarcos@gmail.com ou pelo WhatsApp:048991877081
+- 💬 Entre em contato pelo E-mail: mvscmarcos@gmail.com ou pelo WhatsApp: 048991877081
 - 📫 Grande Florianópolis, Santa Catarina, Brasil
 - ⚡ Possuo conhecimento na área de UX/UI design
 
