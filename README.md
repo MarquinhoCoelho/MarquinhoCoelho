@@ -16,7 +16,7 @@
 <img align="center" alt="MarcosCoelho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
 <img align="center" alt="MarcosCoelho-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%;" />
 
-<img align="right" alt="formed-pic" height="350" src="https://i.ibb.co/wr4T4Y1/graduado.png" style="max-width: 40%;">
+<img align="right" alt="formed-pic" height="350" src="https://i.ibb.co/wr4T4Y1/graduado.png" style="max-width: 100%;">
 </div>
 
 <div dir="auto"><br>
@@ -39,8 +39,4 @@
  
 </div>
 
-
- <div style="max-width: 57%;
-    min-height: 200px;">
  ![Snake animation](https://github.com/MarquinhoCoelho/MarquinhoCoelho/blob/output/github-contribution-grid-snake.svg)
- </div>
