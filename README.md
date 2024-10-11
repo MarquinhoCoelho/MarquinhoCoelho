@@ -1,11 +1,10 @@
 ## Olá! Eu me chamo Marcos Coelho
 
 
-- 🔭 Atualmente trabalho com Front-end
-- 🌱 Estudando TypeScript
+- 🔭 Atualmente trabalho como Front-end na nexxera
+- 🌱 Estudando selenium, node e python
 - 💬 Entre em contato pelo E-mail: mvscmarcos@gmail.com ou pelo WhatsApp: 048991877081
 - 📫 Grande Florianópolis, Santa Catarina, Brasil
-- ⚡ Possuo conhecimento na área de UX/UI design
 
 <div dir="auto"><br><br>
 <img align="center" alt="MarcosCoelho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
@@ -14,7 +13,7 @@
 <img align="center" alt="MarcosCoelho-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="max-width: 100%;"/>  
 <img align="center" alt="MarcosCoelho-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
 <img align="center" alt="MarcosCoelho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
-<img align="center" alt="MarcosCoelho-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%;" />
+
 
 <img align="right" alt="formed-pic" height="250" src="https://i.ibb.co/wr4T4Y1/graduado.png" style="max-width: 100%;">
 </div>
@@ -79,6 +78,8 @@
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img alt="MarcosCoelho-figma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 
 ###
