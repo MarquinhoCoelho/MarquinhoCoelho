@@ -11,6 +11,9 @@
 
 </div>
 
+###
+<br>
+
 <h2 align="left">Hard Skils</h2>
 
 ###
@@ -47,12 +50,13 @@
 
 
 ###
+<br>
 
-<div align="center">
+<div align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarquinhoCoelho&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-
+<br>
 ###
   
 
