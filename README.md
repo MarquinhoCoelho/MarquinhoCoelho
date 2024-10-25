@@ -12,7 +12,6 @@
 </div>
 
 ###
-<br>
 
 <h2 align="left">Hard Skils</h2>
 
@@ -50,6 +49,7 @@
 
 
 ###
+
 <br>
 
 <div align="start">
@@ -57,6 +57,7 @@
 </div>
 
 <br>
+
 ###
   
 
