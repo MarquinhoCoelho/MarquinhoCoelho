@@ -13,6 +13,7 @@
 <img align="center" alt="MarcosCoelho-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="max-width: 100%;"/>  
 <img align="center" alt="MarcosCoelho-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
 <img align="center" alt="MarcosCoelho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
+ 
 
 
 <img align="right" alt="formed-pic" height="250" src="https://i.ibb.co/wr4T4Y1/graduado.png" style="max-width: 100%;">
@@ -80,6 +81,13 @@
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
   <img width="12" />
   <img alt="MarcosCoelho-figma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
+
+  <img width="12" />
+  <img alt="MarcosCoelho-MySQL" height="40" src="https://camo.githubusercontent.com/8b690f4dff81513c7425f3b8f6e66b34a1dea43e22562037eeb5449d18571c89/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" />
+    <img width="12" />
+  <img alt="MarcosCoelho-gitlab" height="40" src="https://camo.githubusercontent.com/00518a2218fb06231c6f2064f1904d68a42f0dceba8985231a70efec56127933/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746c61622f6769746c61622d6f726967696e616c2e737667" />
+    <img width="12" />
 </div>
 
 ###
