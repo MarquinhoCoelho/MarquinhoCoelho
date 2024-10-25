@@ -11,14 +11,6 @@
 
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarquinhoCoelho&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h2 align="left">Hard Skils</h2>
 
 ###
@@ -52,9 +44,17 @@
     <img width="12" />
 </div>
 
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarquinhoCoelho&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+
 ###
   
-
 
 <p dir="auto">
  <a href="https://www.linkedin.com/in/marcos-coelho-perfil/" rel="nofollow">
