@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho como Front-end na nexxera
-- 🌱 Estudando testes unitários com Vitest e selenium para automação de tarefas além do constante estudo de node.
+- 🌱 Estudando Java, Node e Python para melhorar habilidades do back-end
 - 💬 Entre em contato pelo E-mail: mvscmarcos@gmail.com ou pelo <a href="https://api.whatsapp.com/send?phone=5548991877081&text=Ol%C3%A1%2C%20Marcos">WhatsApp</a>: 048991877081
 - 📫 Grande Florianópolis, Santa Catarina, Brasil
 - ✨ Graduado em Análise e Desenvolvimento de Sistemas
