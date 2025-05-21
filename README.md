@@ -22,28 +22,28 @@
   <img width="12" />
   <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img title="Node.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img title="Angular Framework" src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img title="React 19" src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img title="Jest para testes unitários" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
-  <img title="Banco de dados postgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img title="Angular Framework" src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<!--   <img title="Banco de dados postgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" /> -->
+  <img title="Node.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img title="Ionic para aplicativos hibridos" src="https://cdn.simpleicons.org/ionic/3880FF" height="40" alt="ionic logo"  />
   <img width="12" />
-  <img title="Express Node" src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+<!--   <img title="Express Node" src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img title="Fastify Node" src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
+  <img width="12" /> -->
   <img title="Figma ferramenta de prototipação" alt="MarcosCoelho-figma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img width="12" />
-  <img  title="MySQL" alt="MarcosCoelho-MySQL" height="40" src="https://camo.githubusercontent.com/8b690f4dff81513c7425f3b8f6e66b34a1dea43e22562037eeb5449d18571c89/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" />
-    <img width="12" />
-  <img title="Git Lab automação e versionamento" alt="MarcosCoelho-gitlab" height="40" src="https://camo.githubusercontent.com/00518a2218fb06231c6f2064f1904d68a42f0dceba8985231a70efec56127933/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746c61622f6769746c61622d6f726967696e616c2e737667" />
-    <img width="12" />
+<!--   <img  title="MySQL" alt="MarcosCoelho-MySQL" height="40" src="https://camo.githubusercontent.com/8b690f4dff81513c7425f3b8f6e66b34a1dea43e22562037eeb5449d18571c89/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" />
+    <img width="12" /> -->
+<!--   <img title="Git Lab automação e versionamento" alt="MarcosCoelho-gitlab" height="40" src="https://camo.githubusercontent.com/00518a2218fb06231c6f2064f1904d68a42f0dceba8985231a70efec56127933/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746c61622f6769746c61622d6f726967696e616c2e737667" />
+    <img width="12" /> -->
 </div>
 
 
@@ -51,10 +51,11 @@
 
 <br>
 
+<!--
 <div align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarquinhoCoelho&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-
+-->
 <br>
 
 ###
