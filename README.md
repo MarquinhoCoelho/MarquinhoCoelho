@@ -1,15 +1,11 @@
 ## Olá! 👋 Eu me chamo Marcos Coelho
 
 
-- 🔭 Atualmente trabalho como Front-end na nexxera
-- 🌱 Estudando Java, Node e Python para melhorar habilidades do back-end
+- 🔭 Atualmente trabalho como Docente no Senai
 - 💬 Entre em contato pelo E-mail: mvscmarcos@gmail.com ou pelo <a href="https://api.whatsapp.com/send?phone=5548991877081&text=Ol%C3%A1%2C%20Marcos">WhatsApp</a>: 048991877081
 - 📫 Grande Florianópolis, Santa Catarina, Brasil
 - ✨ Graduado em Análise e Desenvolvimento de Sistemas
-- 🎲 Professor no senai nos tempos livres
-- 🎯 Em busca de novos desafios
 
-</div>
 
 ###
 
@@ -30,8 +26,8 @@
   <img width="12" />
   <img title="Jest para testes unitários" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
-<!--   <img title="Banco de dados postgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" /> -->
+  <img title="Banco de dados postgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" /> 
   <img title="Node.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img title="Ionic para aplicativos hibridos" src="https://cdn.simpleicons.org/ionic/3880FF" height="40" alt="ionic logo"  />
